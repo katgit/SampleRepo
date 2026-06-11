@@ -1,6 +1,6 @@
 # SampleRepo
 ### Boston University
-### Katia
+### Katia Bulekova
 This repository contains a few basic Python and R scripts, plus unit tests.
 
 ## Scripts
