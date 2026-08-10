@@ -2,6 +2,7 @@
 ### Boston University
 ## Author: Katerina (Katia) Bulekova
 #### Department: Research Computing 
+#### IS&T, BU
 
 This repository contains a few basic Python and R scripts, plus unit tests.
 
