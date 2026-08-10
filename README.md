@@ -5,7 +5,7 @@ This repository contains a few basic Python and R scripts, plus unit tests.
 
 ## The list of Scripts
 
-The scripts live in `./scripts`:
+The scripts live in `./scripts` subdirectory:
 
 - `add_numbers.py`: adds two numbers
 - `string_reverse.py`: reverses a string
