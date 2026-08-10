@@ -3,7 +3,7 @@
 
 This repository contains a few basic Python and R scripts, plus unit tests.
 
-## Scripts
+## The list of Scripts
 
 The scripts live in `./scripts`:
 
